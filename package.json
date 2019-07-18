@@ -30,7 +30,7 @@
     ]
   },
   "dependencies": {
-    "manba": "^1.2.8"
+    "manba": "github:wengee/manba"
   },
   "homepage": "https://github.com/vvpvvp/model#readme",
   "readmeFilename": "README.md"
